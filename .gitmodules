@@ -1,0 +1,78 @@
+[submodule "docs/prototype"]
+	path = docs/prototype
+	url = https://gist.github.com/redpeacock78/7db3a6edeec52ecab8861c3d5d2820be
+[submodule "children_pamphlet_text"]
+	path = children_pamphlet_text
+	url = https://gist.github.com/redpeacock78/4c355d1ad416aba1d866ef09e8073eab
+[submodule "docs/children_pamphlet_text"]
+	path = docs/children_pamphlet_text
+	url = https://gist.github.com/redpeacock78/4c355d1ad416aba1d866ef09e8073eab
+[submodule "codes/patch/w3m-sixel"]
+	path = codes/patch/w3m-sixel
+	url = https://gist.github.com/redpeacock78/378c445c3429734a0aa3499e9b2cb059
+[submodule "codes/patch/tmux-sixel"]
+	path = codes/patch/tmux-sixel
+	url = https://gist.github.com/redpeacock78/42d7c3d5711a363492efe9d2da50a176
+[submodule "codes/shell/pip_elekiban"]
+	path = codes/shell/pip_elekiban
+	url = https://gist.github.com/redpeacock78/408ad5a3f0a1fca97af69a4ffd336d88
+[submodule "docs/comprehensive_exercise_in_historical_heritage_studies_3"]
+	path = docs/comprehensive_exercise_in_historical_heritage_studies_3
+	url = https://gist.github.com/redpeacock78/7705e8526966125313b33734f382e61f
+[submodule "codes/css/twitcasting_comment_4_obs"]
+	path = codes/css/twitcasting_comment_4_obs
+	url = https://gist.github.com/redpeacock78/cc89e119140a12f1761e6ef4f51cdf9a
+[submodule "codes/javascript/sample"]
+	path = codes/javascript/sample
+	url = https://gist.github.com/redpeacock78/28d57af145dcaa5db7abe5fd66b6f410
+[submodule "codes/GAS/youtube_liked_videos_feed"]
+	path = codes/GAS/youtube_liked_videos_feed
+	url = https://gist.github.com/redpeacock78/d13baf10ab3a3913557ad143e00dae29
+[submodule "codes/hsp/zundoko"]
+	path = codes/hsp/zundoko
+	url = https://gist.github.com/redpeacock78/25be24277259e3ee090418e21f059b13
+[submodule "codes/hsp/mitsudesu"]
+	path = codes/hsp/mitsudesu
+	url = https://gist.github.com/redpeacock78/b46d60f201b0e62a0df08e2faeba699b
+[submodule "codes/hsp/euphonium"]
+	path = codes/hsp/euphonium
+	url = https://gist.github.com/redpeacock78/f82eb8c8ec7410226b95ff96584eec6f
+[submodule "docs/objectionable_literature"]
+	path = docs/objectionable_literature
+	url = https://gist.github.com/redpeacock78/52c9e1a038e1fcbbea6ca67df69d522d
+[submodule "codes/docker/cpuminer"]
+	path = codes/docker/cpuminer
+	url = https://gist.github.com/redpeacock78/1d4f8c25727ab0fac1e5c3f603f938ed
+[submodule "codes/docker/xmrig"]
+	path = codes/docker/xmrig
+	url = https://gist.github.com/redpeacock78/7952cc45870c3ca83c0ee3a86d317f51
+[submodule "docs/OCI_OBS"]
+	path = docs/OCI_OBS
+	url = https://gist.github.com/redpeacock78/ad6714df80b595649228cef1c1f61f6a
+[submodule "codes/docker/bitzeny"]
+	path = codes/docker/bitzeny
+	url = https://gist.github.com/redpeacock78/c9b5038a7cd70b40d419f768b6ab36f7
+[submodule "docs/test_text"]
+	path = docs/test_text
+	url = https://gist.github.com/redpeacock78/9b57b76c19dd8186619ad348c7cf4a9c
+[submodule "codes/docker/line_sticker2telegram_sticker"]
+	path = codes/docker/line_sticker2telegram_sticker
+	url = https://gist.github.com/redpeacock78/b04672d394687b8e58e7bd76085658eb
+[submodule "codes/docker/telegram_sticker_coverter"]
+	path = codes/docker/telegram_sticker_coverter
+	url = https://gist.github.com/redpeacock78/55ac36d052ca614631858ebc7d8844ba
+[submodule "codes/jupyter_notebook/test_colab"]
+	path = codes/jupyter_notebook/test_colab
+	url = https://gist.github.com/redpeacock78/394703c25327c41b0e607ef50305fd4d
+[submodule "codes/livescript/fizzbuzz"]
+	path = codes/livescript/fizzbuzz
+	url = https://gist.github.com/redpeacock78/c211f3e28643a5ab208b1896b28cc3a5
+[submodule "docs/environment_setting"]
+	path = docs/environment_setting
+	url = https://gist.github.com/redpeacock78/5f9c47f746d7289e0c348fb621f042e7
+[submodule "docs/cookie_clicker/MetalMachineBakery"]
+	path = docs/cookie_clicker/MetalMachineBakery
+	url = https://gist.github.com/redpeacock78/b3aa86e81b3fc19749905ffbc1050725
+[submodule "docs/Keybase"]
+	path = docs/Keybase
+	url = https://gist.github.com/redpeacock78/8f8f05d84cd898ba8b0efa94bdc201fb
