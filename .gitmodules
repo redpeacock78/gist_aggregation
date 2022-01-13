@@ -1,9 +1,6 @@
 [submodule "docs/prototype"]
 	path = docs/prototype
 	url = https://gist.github.com/redpeacock78/7db3a6edeec52ecab8861c3d5d2820be
-[submodule "children_pamphlet_text"]
-	path = children_pamphlet_text
-	url = https://gist.github.com/redpeacock78/4c355d1ad416aba1d866ef09e8073eab
 [submodule "docs/children_pamphlet_text"]
 	path = docs/children_pamphlet_text
 	url = https://gist.github.com/redpeacock78/4c355d1ad416aba1d866ef09e8073eab
